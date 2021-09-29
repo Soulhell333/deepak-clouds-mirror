@@ -1,4 +1,3 @@
-
 class _BotCommands:
     def init(self):
         self.StartCommand = 'start2'
