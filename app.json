@@ -181,6 +181,10 @@
       "BUTTON_SIX_URL": {
         "description": "Fill your URL if you are using extra buttons.",
         "required": false
+      },
+      "BOT_NO": {
+        "description": "Bot Number.Skip this if you don't know this.",
+        "required": false
       }
     },
     "addons": [
